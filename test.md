@@ -1,1 +1,29 @@
-This is my updated file content v3
+Daily Questions
+Morning (8 AM): "How are you feeling this morning? Could you rate your mood on a scale of 1 (extremely low) to 10 (extremely high)?"
+Morning (8 AM): "On a scale of 1 (very tired) to 10 (very energetic), how would you rate your energy levels this morning?"
+Morning (8 AM): "How many hours did you sleep last night? Was the sleep continuous or broken?"
+Afternoon (12 PM): "Are you finding it easy or difficult to concentrate today? Rate it on a scale of 1 (very difficult) to 10 (very easy)."
+Afternoon (2 PM): "Have you taken your prescribed medication today?"
+Evening (7 PM): "Could you rate your mood now on a scale of 1 (extremely low) to 10 (extremely high)? Have you noticed any significant changes in your mood throughout the day?"
+Evening (7 PM): "Have you experienced any rapid thoughts or talkativeness today?"
+
+
+Weekly Questions (Sundays, 5 PM)
+"Over the past week, have you noticed any patterns or triggers that seem to affect your mood or energy levels?"
+"Have there been any significant changes or events in your life this week?"
+"Were you able to complete your therapy assignments for this week?"
+"How would you rate your overall mood this week on a scale from 1 (very low) to 10 (very high)?"
+"How would you rate your overall anxiety levels this week on a scale from 1 (very low) to 10 (very high)?"
+"Did you face any difficulties or barriers in following your treatment plan this week?"
+
+
+Biweekly Questions (Every other Wednesday, 7 PM)
+"How would you describe your relationship with your friends and family in the past two weeks?"
+"Have you experienced any financial, occupational, or relationship stress in the past two weeks?"
+"Have you noticed any changes in your appetite or weight?"
+
+
+Monthly Questions (End of the month, 5 PM)
+"Over the past month, do you feel like your symptoms are improving, worsening, or staying the same?"
+"Are you experiencing any side effects from your medication?"
+"How satisfied are you with the progress of your therapy on a scale of 1 (not satisfied) to 10 (very satisfied)?"
